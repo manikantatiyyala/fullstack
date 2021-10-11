@@ -1,0 +1,31 @@
+python
+Django
+API's
+Django rest framework
+asynchronous programming
+celery
+threading
+postman
+inspect
+pdb debugger
+react, webpack
+unit testing
+mock
+Docker
+GitHub
+DB browser
+postgres sql
+Redis message broker
+ngnix
+base commands
+user authentication
+git version control
+git commands, checkout, pull, create branch, push branch to remote repository
+DDl, DML subclauses ad joins
+CRUD operations on API
+--------------
+Heroku
+ngnix
+cookiecutter
+flower
+
